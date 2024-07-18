@@ -2,7 +2,7 @@ local Rayfield = loadstring(game:HttpGet('https://raw.githubusercontent.com/UI-I
 
 local Window = Rayfield:CreateWindow({
    Name = "Skeet.idb",
-   LoadingTitle = "Rayfield Interface Suite",
+   LoadingTitle = "Paster activities Inc",
    LoadingSubtitle = "by estorik",
    ConfigurationSaving = {
       Enabled = true,
@@ -19,7 +19,7 @@ local Window = Rayfield:CreateWindow({
       Title = "skeet.idb | Key",
       Subtitle = "hint: the key is in the discord sever :o",
       Note = "I change the key whenever I feel like it and I will notify u when I do :3",
-      FileName = "SiriusKey",
+      FileName = "skeetidbkey",
       SaveKey = false,
       GrabKeyFromSite = true, -- If this is true, set Key below to the RAW site you would like Rayfield to get the key from
       Key = "https://pastebin.com/raw/Xh1Hk0cG"
